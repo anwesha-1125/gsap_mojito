@@ -8,7 +8,7 @@ const Navlinks = [
    title: "About Us",
   },
   {
-   id: "work",
+   id: "art",
    title: "The Art",
   },
   {
@@ -22,25 +22,25 @@ const cocktailLists = [
    name: "Chapel Hill Shiraz",
    country: "AU",
    detail: "Battle",
-   price: "$10",
+   price: "₹1099",
   },
   {
    name: "Caten Malbee",
    country: "AU",
    detail: "Battle",
-   price: "$49",
+   price: "₹4099",
   },
   {
    name: "Rhino Pale Ale",
    country: "CA",
    detail: "750 ml",
-   price: "$20",
+   price: "₹2099",
   },
   {
    name: "Irish Guinness",
    country: "IE",
    detail: "600 ml",
-   price: "$29",
+   price: "₹3099",
   },
  ];
  
@@ -49,25 +49,25 @@ const cocktailLists = [
    name: "Tropical Bloom",
    country: "US",
    detail: "Battle",
-   price: "$10",
+   price: "₹399",
   },
   {
    name: "Passionfruit Mint",
    country: "US",
    detail: "Battle",
-   price: "$49",
+   price: "₹349",
   },
   {
    name: "Citrus Glow",
    country: "CA",
    detail: "750 ml",
-   price: "$20",
+   price: "₹520",
   },
   {
    name: "Lavender Fizz",
    country: "IE",
    detail: "600 ml",
-   price: "$29",
+   price: "₹629",
   },
  ];
  
